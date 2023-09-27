@@ -1,2 +1,2 @@
-# Django-CMS
-Django-CMS Project
+# Wagtail cms for Django
+Django wagtail Project
